@@ -7,8 +7,8 @@ I am a Computer Engineering Student at the University of Guelph.
 - C++
 
 ## Learning
--Python
--Java
+- Python
+- Java
 
 ## Projects
 - Calculator App
