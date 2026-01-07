@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Mathieu ✌️
 
-<!--
-**Cannon-M/Cannon-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Engineering Student at the University of Guelph.
 
-Here are some ideas to get you started:
+## Skills
+- C
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning
+-Python
+-Java
+
+## Projects
+- Calculator App
+- Small Games and Scripts
+
+I am always learning and improving
